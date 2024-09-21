@@ -1,0 +1,12 @@
+body {
+    background-image: none;
+    background-color: #1e2020;
+}
+
+#welcome {
+    color: rgb(226, 226, 226);
+}
+
+#explanation {
+    color: rgb(212, 0, 0);
+};
